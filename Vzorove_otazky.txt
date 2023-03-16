@@ -525,7 +525,7 @@ a) pohlaví samičí
 b) obě pohlaví  
 c) pohlaví samčí  
 d) žádné pohlaví  
-^c)
+^a)
 89. Příkladem maternální (mimojaderné) dědičnosti je:  
 a) daltonismus  
 b) panašování listů u rostlin  
@@ -621,7 +621,7 @@ a) ryby
 b) savci  
 c) hmyz  
 d) plazi  
-^b)
+^d)
 105. Členovci mají článkované:  
 a) pouze tykadla  
 b) pouze končetiny  
@@ -681,7 +681,7 @@ a) urychluje svlékání larev hmyzu s proměnou nedokonalou
 b) urychluje svlékání larev hmyzu s proměnou dokonalou  
 c) podporuje larvální růst hmyzích larev  
 d) podporuje funkci malphigických trubic u hmyzu  
-^b)
+^c)
 115. Ekdyson je:  
 a) hormon barvoměny  
 b) hormon aktivační  
@@ -813,7 +813,7 @@ a) 5
 b) 6  
 c) 7  
 d) 8  
-^b)
+^c)
 137. Okysličená krev u savců se nachází:  
 a) v pravé komoře  
 b) v levé komoře  
@@ -861,7 +861,7 @@ a) ježek západní
 b) bělozubka obecná  
 c) rejsek obecný  
 d) veverka obecná  
-^a)
+^d)
 145. Mezi hlodavce nepatří:  
 a) svišť horský  
 b) dikobraz obecný  
@@ -885,7 +885,7 @@ a) slon africký
 b) kosatka dravá  
 c) panda velká  
 d) lachtan ušatý  
-^c)
+^b)
 149. Do řádu letounů nepatří:  
 a) vrápenec  
 b) létavka  
@@ -1179,7 +1179,7 @@ a) dochází k ovulaci
 b) prudce poklesne hladina progesteronu  
 c) odlučuje se krev z poškozené sliznice dělohy  
 d) probíhá 5. - 12. den cyklu  
-^c)
+^a)
 198. Proces změny jednovrstevné blastuly na dvojvrstevný zárodek se nazývá:  
 a) nidace  
 b) morulace  
@@ -1197,13 +1197,13 @@ a) na ochlupených částech těla
 b) na dlani a plosce nohy  
 c) na temeni hlavy  
 d) na břichu  
-^a)
+^b)
 201. Krauseova tělíska jsou receptory:  
 a) chladu  
 b) tepla  
 c) dotyku  
 d) tlaku  
-^b)
+^a)
 202. Receptory dotyku jsou:  
 a) Krauseova tělíska  
 b) Ruffiniho tělíska  
@@ -1317,7 +1317,7 @@ a) jeřábu
 b) jabloně 
 c) třešně 
 d) okurky  
-^c)
+^d)
 221. Oddenky rostlin jsou přeměněné:  
 a) kořeny  
 b) listy  
@@ -1382,7 +1382,7 @@ a) věkovou
 b) hmotnostní  
 c) pohlavní  
 d) druhovou  
-^c)
+^d)
 232. Soubor jedinců různých druhů živočichů žijících na určitém stanovišti nazýváme:  
 a) biocenóza  
 b) zoocenóza  
