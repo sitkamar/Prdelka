@@ -1,0 +1,1604 @@
+﻿1. Robert Koch:
+a) objevil původce tuberkulózy  
+b) sestrojil mikroskop  
+c) objevil původce cholery  
+d) objevil původce tyfu  
+^a)
+2. Alexander Fleming:  
+a) vypracoval laboratorní metody pro kultivaci mikroorganizmů na živných půdách  
+b) sestavil binomickou nomenklaturu  
+c) objevil penicilín  
+d) rozdělil viry podle obsahu nukleových kyselin
+^c)
+3. Antony van Leeuwenhoek:  
+a) objasnil krevní oběh  
+b) objasnil fylogenetický vývoj živých organismů 
+c) sestrojil první mikroskop  
+d) zavedl základní biologickou metodu - pokus 
+^c) 
+4. J. E. Purkyně:  
+a) formuloval vývojovou teorii  
+b) studoval dědičnost  
+c) položil základní teze teorie abiogeneze  
+d) formuloval buněčnou teorii  
+^d)
+5. Johan Gregor Mendel:  
+a) provedl první pitvu v Praze  
+b) zavedl povinné očkování proti tuberkulóze  
+c) objasnil mechanizmus přenosu genů (elementů)  
+d) založil nový vědní obor etologii 
+^c) 
+6. Watson a Crick:  
+a) objasnili stavbu eukaryotické buňky  
+b) studovali přenos vzruchu v nervové tkáni  
+c) položili základy vývojové teorii  
+d) objasnili strukturu DNA  
+^d)
+7. Charles Darwin:  
+a) položil základy teorie abiogeneze  
+b) zavedl binomickou nomenklaturu  
+c) zavrhl Oparinovu teorii  
+d) formuloval vývojovou teorii 
+^d)
+8. DNA virů je:  
+a) vždy dvouřetězcová  
+b) vždy jednořetězcová  
+c) jednořetězcová nebo dvouřetězcová  
+d) vždy lineární  
+^c)
+9. Při napadení virionem mohou napadené živočišné buňky produkovat:  
+a) priony  
+b) protilátky  
+c) fágy  
+d) interferony  
+^d)
+10. Viry se mohou množit:  
+a) přímým dělením  
+b) pouze v buňkách hostitele  
+c) pouze za laboratorních podmínek na živném agaru  
+d) pouze v krevní plasmě 
+^b)
+11. Viriony vždy obsahují:  
+a) DNA  
+b) RNA  
+c) proteiny  
+d) lipidy  
+^c)
+12. Herpesviry jsou původcem:  
+a) chřipky  
+b) vztekliny  
+c) příušnic  
+d) oparů 
+^d)
+13. Mezi makroelementy nepatří:  
+a) vápník  
+b) hořčík  
+c) draslík  
+d) zinek  
+^d)
+14. Mezi mikroelementy nepatří:  
+a) sodík  
+b) měď 
+c) bór  
+d) hliník  
+^a)
+15. Prvky se v živých soustavách vyskytují:  
+a) pouze ve formě sloučenin  
+b) pouze jsou ionty  
+c) jako ionty nebo sloučeniny  
+d) převážně volné 
+^c)
+16. V termínu stopový prvek znamená slovo stopový:  
+a) prvek může být použit jako značka pro sledování metabolismu  
+b) prvek je organismem požadován pouze v malém množství  
+c) prvek se na Zemi vyskytuje velmi zřídka  
+d) prvek zlepšuje zdraví, ale není nezbytný pro dlouhodobé přežívání organismu  
+^b)
+17. Vyberte obvyklé procentuální zastoupení vody v živých soustavách:  
+a) 50 %  
+b) 30 - 40 %  
+c) 60 - 90 %  
+d) 50 - 60 %  
+^c)
+18. Co umožňuje vytvářet okolo částic (iontů) rozpuštěných ve vodě tzv. hydratační  obal:  
+a) existence vodíkových můstků 
+b) dipólový charakter molekul vody  
+c) van der Waalsovy síly  
+d) existence dihydratační síly mezi molekulami vody a ionty 
+^b) 
+19. Mezi základní organické biopolymery nepatří:  
+a) nukleové kyseliny  
+b) sacharidy  
+c) vitamíny  
+d) bílkoviny  
+^c)
+20. Mezi proteinogenní aminokyseliny nepatří:  
+a) tyrozin  
+b) cystin  
+c) metionin  
+d) ornitin  
+^d)
+21. Hlavní funkce sacharidů je:  
+a) energetická, stavební a zásobní  
+b) pouze energetická  
+c) pouze energetická a stavební  
+d) stavební a katalytická  
+^a)
+22. Který výrok týkající se nenasycených tuků je správný:  
+a) jsou běžnější u zvířat než rostlin  
+b) mají dvojité vazby v uhlíkatých řetězcích jejich mastných kyselin  
+c) při pokojové teplotě obvykle ztuhnou  
+d) obsahují více vodíku než nasycené tuky při stejném počtu uhlíkových atomů
+^b) 
+23. Trvalé změny prostorového uspořádání bílkovinné molekuly se označují jako:  
+a) denaturace  
+b) degradace  
+c) kondenzace  
+d) degenerace 
+^a) 
+24. Jádro nemá:  
+a) jadérko  
+b) myofibrily  
+c) chromatin  
+d) karyoplazmu 
+^b)
+25. Které tvrzení neplatí o mitochondriích:  
+a) jsou v buňce lokalizovány na ribozomech  
+b) mají dvě membrány  
+c) uvnitř mají kristy  
+d) probíhá v nich terminální dýchací řetězec  
+^a)
+26. Endoplazmatické retikulum zajišťuje:  
+a) syntézu DNA a sacharidů 
+b) rozklad steroidů 
+c) syntézu lipidů a bílkovin  
+d) syntézu sacharidů a bílkovin  
+^c)
+27. Převážná část proteosyntézy probíhá v:  
+a) jádře  
+b) jadérku  
+c) cytoplazmě 
+d) mitochondriích  
+^c)
+28. Chloroplasty mají uvnitř další struktury, které se nazývají:  
+a) centrioly  
+b) telomery  
+c) tylakoidy  
+d) chromatiny  
+^c)
+29. Lysozomy:  
+a) se vyskytují pouze v rostlinných buňkách  
+b) jsou organely zásobovací  
+c) jsou místem proteosyntézy  
+d) jsou měchýřky obsahující trávicí enzymy 
+^d) 
+30. Lysozomy:  
+a) se nachází pouze v rostlinných buňkách  
+b) jsou součástí mitochondrií  
+c) obsahují enzymy, které napomáhají trávení  
+d) jsou součástí biomembrány  
+^c)
+31. Jednou membránovou jednotkou je tvořeno:  
+a) jádro  
+b) mitochondrie  
+c) chloroplast  
+d) Golgiho komplex  
+^d)
+32. Buněčná struktura společná živočišné i rostlinné buňce se nazývá:  
+a) buněčná stěna  
+b) diktyozom  
+c) ribozom  
+d) chloroplast  
+^c)
+33. Živočichové mají:  
+a) pouze eukaryotické buňky  
+b) pouze prokaryotické buňky  
+c) autotrofní způsob výživy  
+d) charakter producentů organické hmoty 
+^a)
+34. Funkcí cytoskeletu je:  
+a) zajištění energetických zdrojů 
+b) opora a pohyb  
+c) látková přeměna  
+d) vedení signálu uvnitř buňky  
+^b)
+35. Centriol je:  
+a) součást dělícího vřeténka  
+b) jaderné barvivo  
+c) spouštěcí látka pro redukční dělení  
+d) trávicí organela  
+^a)
+36. Centrozom je tvořen:  
+a) centriolem  
+b) centriolem a ribozomem  
+c) centriolem, centrosférou a astrosférou  
+d) centrosférou  
+^c)
+37. Buněčný cyklus může být stimulován:  
+a) nahromaděním odpadních látek  
+b) účinkem cytostatik  
+c) účinkem některých hormonů 
+d) nedostatkem živin  
+^c)
+38. Chromozom je v profázi mitózy tvořen:  
+a) dělícím vřeténkem  
+b) kruhovou molekulou DNA  
+c) dvěma chromatidami  
+d) mikrotubuly  
+^b)
+39. Součástí interfáze není:  
+a) G2 fáze  
+b) S fáze  
+c) G1 fáze  
+d) profáze  
+^d)
+40. Dělící vřeténko vzniká v:  
+a) profázi  
+b) metafázi  
+c) anafázi  
+d) telofázi  
+^a)
+41. Chromozomy se od sebe oddělí v průběhu mitózy v:  
+a) profázi  
+b) telofázi  
+c) metafázi  
+d) anafázi  
+^b)
+42. Cytokineze znamená:  
+a) určitý úsek dělení buňky  
+b) pohyb buňky závislý na bičících nebo řasinkách  
+c) pohyb základní cytoplazmy  
+d) jakýkoliv pohyb buňky 
+^a)
+43. Cytoplazmatická membrána je tvořena:  
+a) pouze bílkovinami a cukry  
+b) pouze vrstvou fosfolipidů 
+c) dvouvrstvou fosfolipidů a bílkovinami  
+d) jednou vrstvou fosfolipidů a cukry 
+^c) 
+44. Fagocytóza spočívá v:  
+a) pohlcování částic buňkou  
+b) tvorbě protilátek  
+c) činnosti lymfocytů 
+d) prostup bílých krvinek stěnou vlásečnice  
+^a)
+45. Proces pohlcování částic buňkou se nazývá:  
+a) trombocytóza  
+b) lymfocytóza  
+c) exocytóza  
+d) fagocytóza  
+^d)
+46. Transport látek pomocí přenašečů přes membránu se uskutečňuje:  
+a) prostřednictvím glykolipidů 
+b) prostřednictvím bílkovin  
+c) prostřednictvím fosfolipidů 
+d) v závislosti na koncentračním spádu 
+^b) 
+47. Který faktor má sklon zvyšovat tekutost plazmatické membrány?  
+a) větší podíl nenasycených fosfolipidů 
+b) nižší teplota  
+c) vysoký obsah proteinů v membráně 
+d) vyšší podíl cholesterolu  
+^a)
+48. Mezi prokaryota patří:  
+a) bakterie a kvasinky  
+b) plísně 
+c) nižší houby a bakterie  
+d) bakterie a sinice  
+^d)
+49. Velikost bakterií se udává nejčastěji v:  
+a) nanometrech  
+b) centimetrech  
+c) milimetrech  
+d) mikrometrech  
+^d)
+50. Stafylokoky jsou bakterie uspořádané jako:  
+a) dvojice buněk  
+b) čtveřice buněk  
+c) řetízky buněk  
+d) hroznovité útvary  
+^d)
+51. Kulovité bakterie se nazývají:  
+a) spirochety  
+b) vibria  
+c) koky  
+d) treponemy 
+^c)
+52. Bakterie - spirochety mají tvar:  
+a) kulovitý  
+b) řetízkovitý  
+c) dlouhý se závity  
+d) esovitý  
+^c)
+53. Bakteriální buňka neobsahuje:  
+a) ribozomy  
+b) cytoplazmatickou membránu  
+c) plazmidy  
+d) Golgiho aparát  
+^d)
+54. Slizová vrstva bakterií se nazývá:  
+a) fimbrie  
+b) kortex  
+c) cefalum  
+d) kapsula  
+^d)
+55. Plasmidy jsou:  
+a) kruhové molekuly DNA v bakteriální buňce  
+b) úseky v molekule DNA chromozomu  
+c) zvláštní druh organel eukaryotické buňky  
+d) zvláštní druh organel prokaryotické buňky  
+^d)
+56. Lyzogenie je:  
+a) tvorba aminokyseliny lysinu  
+b) nedostatek aminokyseliny lysinu  
+c) schopnost virů alternativně si vybrat způsob přežívání v hostitelské buňce  
+d) napadení hostitelské buňky virem  
+^c)
+57. Neisseria gonorrhoeae způsobuje:  
+a) mozaiku tabákových listů 
+b) pásový opar člověka  
+c) myxomatózu králíků 
+d) kapavku člověka  
+^d)
+58. Komplementarita dusíkatých bazí je:  
+a) důležitá pro tvorbu hormonů 
+b) tvorba dvojic alel  
+c) tvorba dvojic genů 
+d) doplňkovost, na základě níž se vytvářejí vodíkové můstky mezi odpovídajícími  dvojicemi nukleotidů
+^d) 
+59. Adenin tvoří komplementární pár s:  
+a) uracilem  
+b) cytosinem  
+c) guaninem  
+d) thyminem 
+^a)
+60. Replikace je:  
+a) přepis pořadí nukleotidů z RNA do DNA  
+b) překlad informace z mRNA do pořadí aminokyselin  
+c) připojení mRNA na ribozomy  
+d) zdvojování DNA  
+^d)
+61. Exprese genů:  
+a) je převod genetické informace uložené v DNA do fenotypového znaku organismu  
+b) probíhá jako proces umlčování genů v nemocných buňkách  
+c) je předání genů z rodičů na potomky  
+d) je formou ochrany genetické informace před mutací  
+^a)
+62. Mediátorová ribonukleová kyselina:  
+a) tvoří ribozomy  
+b) má dvě základní podjednotky  
+c) dopravuje molekuly aminokyselin k ribozomům  
+d) nese informaci o primární struktuře bílkovin  
+^d)
+63. Při proteosyntéze se aminokyseliny váží na:  
+a) m-RNA  
+b) t-RNA  
+c) r-RNA  
+d) v-RNA  
+^b)
+64. Translace je překlad genetické informace z:  
+a) jaderné DNA do mimojaderné DNA  
+b) m-RNA do pořadí ribozomů 
+c) m-RNA do t-RNA  
+d) m-RNA do pořadí aminokyselin v peptidovém řetězci  
+^d)
+65. Exony jsou:  
+a) oblasti DNA obsahující geny pro RNA  
+b) části složených genů eukaryot  
+c) úseky mRNA, které jsou následně vystřiženy po transkripci  
+d) úseky DNA obsahující několik strukturních genů prokaryot  
+^c)
+66. Kodon:  
+a) je dvojice bazí, která určuje sekundární strukturu bílkovin  
+b) je místo, kde se rozpojuje dvojšroubovice DNA při replikaci  
+c) je přepsaná informace z DNA na rRNA  
+d) je trojice nukleotidů na mRNA, jejichž pořadí určuje primární strukturu bílkovin  
+^d)
+67. Primární konstrikce chromozomu je:  
+a) dekondenzovaná část chromozomu  
+b) centromera  
+c) telomera  
+d) chromatida 
+^b)
+68. Chromozom, který má centromeru uprostřed se nazývá:  
+a) metacentrický  
+b) akrocentrický  
+c) telocentrický  
+d) submetacentrický  
+^a)
+69. Histony jsou:  
+a) chromozomy chloroplastů 
+b) určité proteiny  
+c) určité polysacharidy  
+d) součásti cytoskeletálních struktur  
+^b)
+70. Karyotyp je:  
+a) typ chromozomové mutace  
+b) aktivovaná řada chromozomů v jádře  
+c) přesný obraz chloroplastových a mitochondriálních chromozomů 
+d) soubor všech chromozómů v jádře buňky  
+^d)
+71. Aneuploidie u člověka způsobuje:  
+a) hemofilii  
+b) poruchu barevného vidění  
+c) diabetes mellitus  
+d) poruchu plodnosti  
+^d)
+72. Downův syndrom je mutace:  
+a) genová  
+b) chromozomová  
+c) genomová  
+d) euploidní  
+^b)
+73. Crossing-over přispívá ke genetické variabilitě tím, že při něm dochází k výměně částí chromozomů mezi:  
+a) sesterskými chromatidami chromozomu  
+b) chromatidami nehomologických chromozomů 
+c) nesesterskými chromatidami homologických chromozomů 
+d) chromatidami autozomů a gonozomů 
+^c)
+74. V somatických buňkách člověka:  
+a) je 46 párů chromozomů 
+b) je 23 párů chromozomů 
+c) je 48 chromozomů 
+d) je 23 chromozomů 
+^a)
+75. Gamety mají:  
+a) dvě sady chromozomů 
+b) čtyři sady chromozomů  
+c) haploidní počet chromozomů 
+d) diploidní počet chromozomů
+^c)
+76. Dědičnost:  
+a) je příčinou individuálních odlišností jedinců jednoho druhu  
+b) způsobuje, že potomci se liší od rodičů 
+c) je příčinou podobnosti rodičů a jejich potomků  
+d) je tendence k nestálosti a proměnlivosti organismů 
+^b)
+77. Gen je v somatické eukaryotické buňce zastoupen nejčastěji:  
+a) jednou alelou  
+b) dvěma alelami  
+c) třemi alelami  
+d) čtyřmi alelami  
+^b)
+78. Co rozumíme v genetice pod pojmem znaky:  
+a) geny v mitochondriích  
+b) geny malého účinku  
+c) geny velkého účinku  
+d) vnější projevy genu  
+^d)
+79. Genotyp je:  
+a) soubor pozorovatelných vnějších znaků organismu  
+b) soubor genů buňky nebo organismu  
+c) soubor genů, které jsou uloženy v rámci jednoho buněčného jádra  
+d) oblast chromozomů, odpovídající jednotlivým genům  
+^b)
+80. Termín homozygot označuje jedince:  
+a) který má diploidní počet chromozomů 
+b) jehož chromozomy vytvářejí páry  
+c) jehož znaky jsou určeny vždy dvěma geny  
+d) který má pár shodných alel téhož genu  
+^d)
+81. Jedinec, který má pro určitý gen dvě rozdílné alely, se nazývá:  
+a) homozygot  
+b) heterozygot  
+c) dihybrid  
+d) heterosexuál  
+^b)
+82. Které z uvedených znaků nejsou kvalitativní?  
+a) barva očí  
+b) hmotnost plodů 
+c) krevní skupiny  
+d) tvar lusků 
+^b)
+83. Do Mendelových zákonů nepatří:  
+a) zákon o uniformitě hybridů 
+b) zákon o segregaci alel v F2 generaci  
+c) zákon o volné kombinovatelnosti alel  
+d) zákon o uspořádání genů na chromozomech v řadě za sebou  
+^d)
+84. Křížením heterozygota s recesivním homozygotem získáme:  
+a) dva fenotypy v poměru 1:1  
+b) uniformní potomstvo  
+c) shodný genotyp všech jedinců 
+d) dva fenotypy v poměru 3:1 
+^d)
+85. Matka má krevní skupinu B, její dítě krevní skupinu O. Který z uvedených mužů je vyloučen z otcovství?  
+a) krevní skupina A  
+b) krevní skupina B  
+c) krevní skupina AB  
+d) krevní skupina O  
+^c)
+86. Jaká je pravděpodobnost, že se manželskému páru narodí 2 dcery po sobě?  
+a) 10 %  
+b) 50 %  
+c) 75 %  
+d) 25 %  
+^d)
+87. Dědičnost pohlavně ovládaná:  
+a) se týká znaků, které se projevují u obou pohlaví  
+b) je řízena geny na autozomu  
+c) není regulována hormony  
+d) označuje se také jako holandrická dědičnost  
+^a)
+88. Na vytváření znaků podmíněných mimojadernou DNA se podílí hlavně:  
+a) pohlaví samičí  
+b) obě pohlaví  
+c) pohlaví samčí  
+d) žádné pohlaví  
+^c)
+89. Příkladem maternální (mimojaderné) dědičnosti je:  
+a) daltonismus  
+b) panašování listů u rostlin  
+c) Downův syndrom  
+d) hemofilie  
+^b)
+90. Hardy-Weinbergův zákon platí pro populaci u které probíhá:  
+a) inbreeding  
+b) autogamie  
+c) panmixie  
+d) samooplození  
+^c)
+91. Poikilotermní živočichové nejsou:  
+a) ryby  
+b) obojživelníci  
+c) plazi  
+d) ptáci  
+^d)
+92. Bezjaderné erytrocyty nacházíme u:  
+a) ryb  
+b) plazů 
+c) ptáků 
+d) savců
+^d)
+93. Trubicovitá nervová soustava je typická pro:  
+a) měkkýše  
+b) členovce  
+c) obratlovce  
+d) výtrusovce  
+^c)
+94. Epimeletické (altruistické) chování představuje:  
+a) vzájemnou péči o srst  
+b) antagonistické chování  
+c) tzv. přeskokové chování  
+d) „nesobecké“ chování  
+^d)
+95. Blecha patří do podtřídy:  
+a) roztoči (Acari)  
+b) hmyz (Insecta)  
+c) křídlatí (Pterygota)  
+d) členovci (Arthropoda)  
+^c)
+96. Salpy patří do kmene:  
+a) polostrunatci (Hemichordata)  
+b) ostnokožci (Echinodermata)  
+c) pláštěnci (Tunicata)  
+d) strunatci (Chordata)  
+^b)
+97. Nutrie je u nás druhem:  
+a) autochtonním  
+b) allochtonním  
+c) sympatrickým  
+d) endemickým  
+^a)
+98. Předmětem studia ichtyologie jsou:  
+a) ptáci  
+b) ryby  
+c) savci  
+d) plazi  
+^b)
+99. Ontogeneze živočichů studuje:  
+a) kmenový vývoj živočichů 
+b) rodový vývoj živočichů 
+c) druhový vývoj živočichů 
+d) vývoj jedince  
+^d)
+100. Etologie živočichů studuje:  
+a) vnitřní pocity živočichů 
+b) chování živočichů 
+c) zeměpisné rozšíření živočichů 
+d) funkce živých organismů 
+^b)
+101. Protozoologie se zabývá studiem:  
+a) vlivů živočichů na vnější prostředí  
+b) kolonií některých nižších živočichů 
+c) prvoků 
+d) kroužkovců
+^c)
+102. Malakozoologie:  
+a) studuje antigenní vlastnosti živočichů 
+b) studuje život ve slaných vodách  
+c) studuje měkkýše  
+d) studuje živočichy, kteří v zimě upadají do zimního spánku  
+^c)
+103. Morfologie živočichů studuje:  
+a) funkce živých těl  
+b) vývoj jedince  
+c) zeměpisné rozšíření  
+d) vnější vzhled živočichů a jejich vnitřní stavbu  
+^d)
+104. Předmětem studia herpetologie jsou:  
+a) ryby  
+b) savci  
+c) hmyz  
+d) plazi  
+^b)
+105. Členovci mají článkované:  
+a) pouze tykadla  
+b) pouze končetiny  
+c) pouze tělo  
+d) končetiny a tělo  
+^d)
+106. Jedové žlázy pavouků vyúsťují na:  
+a) pedipalpách  
+b) chelicerách  
+c) hlavohrudi  
+d) druhém páru kráčivých noh středního článku 
+^d) 
+107. Vyberte skupinu, která nepatří mezi korýše:  
+a) žábronožci  
+b) lupenonožci  
+c) rakovci  
+d) stonožkovci  
+^c)
+108. Tělo hmyzu je členěno na:  
+a) hlavu, hruď a zadeček  
+b) hlavu a zadeček  
+c) hlavohruď a zadeček  
+d) tělo není členěno 
+^c)
+109. Mezi roztoče nepatří:  
+a) zákožka svrabová  
+b) klíště obecné  
+c) trudník lidský  
+d) stínka zední  
+^d)
+110. Mezi části ústního - kousacího ústrojí hmyzu nepatří:  
+a) horní pysk  
+b) mandibula  
+c) spodní pysk  
+d) faceta  
+^d)
+111. Vylučovací orgány hmyzu jsou:  
+a) ledviny  
+b) koxální žlázy  
+c) hepatopankreatická žláza  
+d) malpigické žlázy  
+^d)
+112. Žihadlo se vyskytuje u následujících pohlavních kast včelstva:  
+a) u trubců a dělnic  
+b) u matky (královny) a trubců 
+c) u dělnic a matky  
+d) pouze u matky (královny)  
+^c)
+113. Samci ovádů se živí:  
+a) krví savců 
+b) nektarem rostlin  
+c) mšicemi  
+d) vysáváním housenek  
+^b)
+114. Juvenilní hormon  
+a) urychluje svlékání larev hmyzu s proměnou nedokonalou  
+b) urychluje svlékání larev hmyzu s proměnou dokonalou  
+c) podporuje larvální růst hmyzích larev  
+d) podporuje funkci malphigických trubic u hmyzu  
+^b)
+115. Ekdyson je:  
+a) hormon barvoměny  
+b) hormon aktivační  
+c) hormon svlékací  
+d) hormon juvenilní  
+^c)
+116. Imago je označení pro:  
+a) larvu hmyzu  
+b) kuklu hmyzu  
+c) vajíčko hmyzu  
+d) dospělý hmyz  
+^d)
+117. Střečci patří mezi:  
+a) blanokřídlé  
+b) dvoukřídlé  
+c) rovnokřídlé  
+d) síťokřídlé 
+^b)
+118. Monté je larva:  
+a) lososů 
+b) úhořů 
+c) kaprů 
+d) obojživelníků 
+^b)
+119. Postranní čára je:  
+a) smyslový orgán měkkýšů 
+b) dýchací orgán vodních živočichů 
+c) smyslový orgán ryb  
+d) řada otvůrků, kterými šupinaté ryby vylučují  
+^c)
+120. Srdcem ryb protéká krev:  
+a) okysličená  
+b) odkysličená  
+c) smíšená  
+d) ze žaber  
+^b)
+121. Obojživelníci:  
+a) mají tělo kryté šupinami  
+b) v dospělosti dýchají žábrami  
+c) srdce s dvěma předsíněmi a dvěma komorami  
+d) mají nepřímý vývoj  
+^d)
+122. Povrch těla obojživelníků je:  
+a) holý se slizovými žlázami  
+b) s cykloidními šupinami  
+c) holý bez slizu  
+d) žádné tvrzení není pravdivé  
+^b)
+123. V larválním stadiu obojživelníci:  
+a) dýchají celým povrchem těla  
+b) jsou nepohybliví  
+c) dýchají žábrami  
+d) žijí pouze na souši  
+^a)
+124. K obojživelníkům, kteří nežijí v naší republice, patří:  
+a) čolek horský  
+b) červor  
+c) skokan ostronosý  
+d) blatnice skvrnitá  
+^a)
+125. Kůže plazů:  
+a) je slizovitá s jedovými žlázami  
+b) je kryta cykloidními šupinami  
+c) je kryta epidermálními šupinami, štítky nebo krunýřem  
+d) je slizovitá bez jedových žláz  
+^c)
+126. Největšího rozkvětu dosáhli plazi v:  
+a) prvohorách  
+b) kambriu  
+c) starohorách  
+d) druhohorách 
+^d)
+127. Ptáci:  
+a) nemají bránici  
+b) mají bránici  
+c) mají dvě tělní dutiny  
+d) nemají vzdušné vaky  
+^a)
+128. Hlavním dusíkatým exkrečním produktem ptáků je:  
+a) močovina  
+b) amoniak s krystalky guaninu  
+c) močovina a mastné kyseliny  
+d) kyselina močová  
+^b)
+129. Kost krkavčí u ptáků:  
+a) je mohutně vyvinuta  
+b) je slabě vyvinuta  
+c) vůbec se nevyvíjí  
+d) srůstá se žebry  
+^a)
+130. Mezi pěvce nepatří:  
+a) budníček  
+b) lyrochvost  
+c) krutihlav  
+d) zebřička  
+^c)
+131. Tažným ptákem je:  
+a) brhlík lesní  
+b) žluna zelená  
+c) rorýs obecný  
+d) hrdlička zahradní  
+^a)  
+132. Vačnatci žijí:  
+a) po celém světě 
+b) pouze v Austrálii  
+c) v Austrálii a Americe  
+d) v Africe  
+^c)
+133. Savci vylučují pomocí:  
+a) mesonefros  
+b) pronefros  
+c) metanefros  
+d) uronefros  
+^a)
+134. V nitroděložním vývoji savců se hromadí moč zárodku v:  
+a) choriu  
+b) amniu  
+c) allantois  
+d) močovém měchýři zárodku 
+^b)
+135. Savci:  
+a) nemají bránici  
+b) vždy rodí živá mláďata  
+c) mají bránici  
+d) mají jednu tělní dutinu  
+^c)
+136. Krčních obratů u savců je zpravidla:  
+a) 5  
+b) 6  
+c) 7  
+d) 8  
+^b)
+137. Okysličená krev u savců se nachází:  
+a) v pravé komoře  
+b) v levé komoře  
+c) v plícnici  
+d) ve všech tepnách  
+^a)
+138. Červené krvinky savců:  
+a) mají jádra kulatá  
+b) mají jádra laločnatá  
+c) mají jádra na řezu piškotovitého tvaru  
+d) jsou bezjaderné  
+^d)
+139. Největší hmotnost má z následujících živočichů:  
+a) mravenečník  
+b) slon  
+c) plejtvák  
+d) nosorožec  
+^b)
+140. Hlodavci:  
+a) mají špičáky přeměněny na hlodáky  
+b) se dožívají věku kolem 30 let  
+c) mají první pár řezáků přeměněn na hlodáky  
+d) jsou nejméně druhově početná skupina savců 
+^a)
+141. Součástí předžaludku přežvýkavců není:  
+a) bachor  
+b) slez  
+c) čepec  
+d) kniha  
+^b)
+142. U býložravců je střevo v poměru k délce těla:  
+a) kratší než u masožravců 
+b) delší než u masožravců 
+c) přibližně ve stejném poměru jako u masožravců 
+d) přibližně ve stejném poměru jako u masožravců 
+^b)
+143. Mezi vejcorodé patří:  
+a) klokan velký  
+b) koala  
+c) vrápenec malý  
+d) ježura australská 
+^d)
+144. Mezi hmyzožravce nepatří:  
+a) ježek západní  
+b) bělozubka obecná  
+c) rejsek obecný  
+d) veverka obecná  
+^a)
+145. Mezi hlodavce nepatří:  
+a) svišť horský  
+b) dikobraz obecný  
+c) plch obecný  
+d) jezevec lesní  
+^d)
+146. Mezi šelmy patří:  
+a) vydra, jezevec, zajíc  
+b) liška, sysel, lasička  
+c) nutrie, pes, kočka  
+d) vydra, pes, kočka  
+^b)
+147. Mezi lichokopytníky nepatří:  
+a) osel  
+b) nosorožec  
+c) zebra  
+d) sob  
+^d)
+148. Mezi kytovce patří:  
+a) slon africký  
+b) kosatka dravá  
+c) panda velká  
+d) lachtan ušatý  
+^c)
+149. Do řádu letounů nepatří:  
+a) vrápenec  
+b) létavka  
+c) netopýr  
+d) kaloň 
+^b)
+150. Střední část dlouhých kostí se nazývá:  
+a) epifýza  
+b) kostní kompakta  
+c) diafýza  
+d) okostice  
+^c)
+151. Povrch kosti kryje vazivová blána, která se nazývá:  
+a) okostice  
+b) kostní dřeň 
+c) kostní obal  
+d) epifýza 
+^c)
+152. Na průřezu kosti rozeznáváme:  
+a) kost hutnou a kompaktní  
+b) kost houbovitou a spongiozní  
+c) kost kompaktní a spongiozní  
+d) kostní dřeň a kůru  
+^b)
+153. Dlouhé kosti rostou do délky v místě:  
+a) okostice  
+b) růstových chrupavek  
+c) uprostřed diafýzy  
+d) uprostřed epifýzy  
+^c)
+154. Které tvrzení neplatí o kostní dřeni:  
+a) tvoří se v ní bílé krvinky  
+b) tvoří se v ní červené krvinky  
+c) uchovává si ve všech kostech schopnost krvetvorby po celý život  
+d) v dětském věku má červenou barvu  
+^c)
+155. Lordóza je:  
+a) vychýlení páteře do pravé strany  
+b) vychýlení páteře na levou stranu  
+c) vyklenutí páteře dopředu  
+d) odvápnění páteře  
+^c)
+156. Myofibrily jsou:  
+a) ve svalových buňkách  
+b) v nervových buňkách  
+c) v pojivových buňkách  
+d) inkrustace uhličitanem vápenatým  
+^a)
+157. Plicnice (plicní tepna) vystupuje ze srdce z:  
+a) pravé komory  
+b) levé komory  
+c) levé síně 
+d) pravé síně 
+^a)
+158. Při diastole je tlak krve:  
+a) nejvyšší  
+b) nejnižší  
+c) stejný jako při systole  
+d) vyšší než při systole  
+^b)
+159. Z nepárových orgánů břišní dutiny přivádí krev do jater:  
+a) větev aorty  
+b) jaterní žíla  
+c) jaterní tepna  
+d) vrátnicová žíla 
+^c)
+160. Hlavním transportním proteinem železa u člověka je:  
+a) erytropoetin  
+b) albumin  
+c) fibrinogen  
+d) transferin  
+^d)
+161. Antigen je:  
+a) cizorodá bílkovinná látka vyvolávající imunitní odpověď 
+b) protilátka tvořená B- lymfocyty  
+c) látka znemožňující přenos genetické informace  
+d) látka vznikající při aglutinaci krve  
+^a)
+162. Při vakcinaci se jedná o:  
+a) aktivní imunizaci  
+b) nahrazení humorální imunity  
+c) pasivní imunizaci  
+d) sekundární imunizaci  
+^a)
+163. Jestliže se do těla vpravují hotové protilátky, jedná se o:  
+a) humorální imunizaci  
+b) aktivní imunizaci  
+c) primární imunizaci  
+d) pasivní imunizaci  
+^d)
+164. Vnitřní dýchání je:  
+a) výměna kyslíku mezi krví a plícemi  
+b) výměna oxidu uhličitého a kyslíku mezi krví a tkáněmi  
+c) výměna oxidu uhličitého a kyslíku mezi plícemi a tkáněmi  
+d) výměna kyslíku a oxidu uhličitého v plicních sklípcích  
+^b)
+165. Na řízení dýchacích pohybů se nepodílí:  
+a) prodloužená mícha  
+b) bránice  
+c) chemoreceptory v aortě a krkavici  
+d) vůle  
+^d)
+166. Největší hrtanovou chrupavkou je:  
+a) chrupavka štítná  
+b) chrupavka hlasivková  
+c) hrtanová příklopka  
+d) jazylka  
+^c)
+167. Hrtanová příklopka:  
+a) zamezuje průniku potravy do hrtanu při polykání  
+b) zamezuje vniknutí vzduchu do hltanu  
+c) odděluje nosohltan od hltanu  
+d) zamezuje průniku vzduchu do hltanu při polykání
+^a)
+168. Poplicnice je:  
+a) vazivová blána kryjící povrch plic  
+b) vazivová blána vystýlající alveoly  
+c) vazivová blána vystýlající hrudní dutinu  
+d) vazivová blána oddělující dutinu hrudní od dutiny břišní
+^a)  
+169. Při vdechu:  
+a) se vyrovnává tlak v pohrudniční štěrbině s atmosférickým  
+b) dojde ke stahu mezižeberních svalů a bránice směřuje dolů 
+c) dojde ke stahu mezižeberních svalů a bránice směřuje nahoru  
+d) dojde k uvolnění mezižeberních svalů a bránice směřuje dolů 
+^b)
+170. Ve štěrbině mezi poplicnicí a pohrudnicí je tlak:  
+a) vyšší než atmosférický  
+b) stejný jako atmosférický  
+c) vakuum  
+d) nižší než atmosférický  
+^a)
+171. Katabolizmus je:  
+a) odbourávání živin  
+b) děj, při kterém se energie spotřebovává  
+c) syntéza nových organických látek  
+d) děj typický pro prokaryotické organizmy 
+^a) 
+172. Anabolické reakce:  
+a) dochází při nich k uvolňování energie  
+b) jde o reakce exergonické  
+c) energie se při nich spotřebovává  
+d) jde o štěpení složitých látek na látky jednodušší  
+^b)
+173. Látková přeměna je řízena:  
+a) trávicí soustavou  
+b) nervově a hormonálně 
+c) jen nervově 
+d) jen hormonálně 
+^b)
+174. Reakce exergonické:  
+a) jsou všechny reakce metabolismu  
+b) jsou reakce anabolické  
+c) jsou všechny anabolické i katabolické reakce  
+d) jsou reakce katabolické 
+^b)
+175. Energie z glukózy se získá:  
+a) její redukcí  
+b) její oxidací na galaktózu  
+c) její přeměnou na tuky  
+d) její oxidací za vzniku oxidu uhličitého a vody  
+^d)
+176. Mastné kyseliny se odbourávají:  
+a) anaerobní glykolýzou  
+b) beta oxidací  
+c) dekarboxylací  
+d) v Krebsově cyklu  
+^b)
+177. Glycerol se při odbourávání začleňuje do:  
+a) anaerobní glykolýzy  
+b) Krebsova cyklu  
+c) beta oxidace  
+d) metabolismu mastných kyselin  
+^b)
+178. Které tvrzení není pravdivé:  
+a) bílkoviny se neukládají do zásoby  
+b) aminokyseliny se mohou přeměňovat na sacharidy  
+c) aminokyseliny nejsou obsaženy v krvi  
+d) zdrojem aminokyselin jsou bílkoviny z potravy 
+^a) 
+179. Nejpohotovějším zdrojem energie jsou:  
+a) tuky  
+b) sacharidy  
+c) bílkoviny  
+d) aminokyseliny  
+^a)
+180. Hlavní látkou metabolismu sacharidů je:  
+a) glukóza  
+b) glykogen  
+c) fruktóza  
+d) ribóza  
+^a)
+181. Tvorba ATP v dýchacím řetězci se nazývá:  
+a) Krebsův cyklus  
+b) oxidativní fosforylace  
+c) fotosyntéza  
+d) anaerobní glykolýza  
+^b)
+182. Při oxidativním způsobu degradace molekuly glukózy se uvolní:  
+a) 2 molekuly ATP  
+b) 10 molekul ATP  
+c) 18 molekul ATP  
+d) přes 30 molekul ATP 
+^d)
+183. Orgán schopný měnit kyselinu mléčnou na glukózu je:  
+a) slezina  
+b) játra  
+c) ledvina  
+d) střevní epitel  
+^b)
+184. Sliny obsahují:  
+a) pepsin  
+b) trypsin  
+c) lipázy  
+d) ptyalin  
+^d)
+185. O minerálních látkách nemůžeme u člověka tvrdit, že:  
+a) se podílejí na udržování homeostázy  
+b) se podílejí na stavbě kostí  
+c) jsou součástí buněk  
+d) jsou zdrojem energie  
+^d)
+186. Úplný nedostatek určitého vitamínu se obecně nazývá:  
+a) hypovitaminóza  
+b) avitaminóza  
+c) hypervitaminóza  
+d) vitaminóza  
+^b)
+187. Důsledkem nedostatku vitaminu K může být:  
+a) řídnutí kostí v dospělosti  
+b) křivice v mládí  
+c) dočasná sterilita  
+d) zvýšená krvácivost  
+^d)
+188. Ledviny jsou místem produkce hormonu:  
+a) antidiuretického  
+b) reninu  
+c) aldosteronu  
+d) vazopresinu  
+^b)
+189. Primární moč se tvoří:  
+a) glomerulu s Bowmanovým pouzdrem  
+b) točitých kanálcích 1.řádu  
+c) točitých kanálcích 2.řádu  
+d) Henleově kličce  
+^a)
+190. Nefron je:  
+a) žláza s vnitřní sekrecí  
+b) součást jaterního parenchymu  
+c) základní stavební a funkční jednotka ledvin  
+d) vylučovací ústrojí hmyzu 
+^c)
+191. Spermatogeneze (tvorba spermií) probíhá:  
+a) v semenotvorných kanálcích prostaty  
+b) v Leydigových buňkách varlete  
+c) v semenotvorných kanálcích varlete  
+d) v Sertoliho buňkách varlat  
+^c)
+192. Které tvrzení není pravdivé (týká se člověka):  
+a) zrání spermií vyžaduje teplotu asi o 4ºC vyšší než je teplota těla  
+b) Leydigovy buňky produkují testosteron  
+c) zrání spermií trvá asi 74 dní  
+d) činnost varlat je od puberty do stáří nepřetržitá
+^d)  
+193. Spermie z varlete dozrávají a získávají schopnost samostatného pohybu v:  
+a) chámovodu  
+b) nadvarleti  
+c) prostatě 
+d) semenných váčcích  
+^b)
+194. Vaječník člověka:  
+a) je nepárová pohlavní žláza  
+b) v pubertě se zde tvoří nezralá vajíčka  
+c) řídí produkci pohlavních hormonů 
+d) v pubertě v něm dozrávají vajíčka působením hormonů hypofýzy  
+^a)
+195. Buňky Graafova folikulu produkuji:  
+a) estrogen  
+b) progesteron  
+c) folikulostimulační hormon  
+d) oxytocin  
+^a)
+196. Které tvrzení není pravdivé:  
+a) v plodném období ženy dozraje přibližně 400 vajíček  
+b) z Graafova folikulu se po vyplavení vajíčka stává žluté tělísko  
+c) oogeneze je název pro vývoj oplozeného vajíčka  
+d) ovulační cyklus žen trvá 28 dní  
+^b)
+197. V sekreční fázi menstruačního cyklu žen:  
+a) dochází k ovulaci  
+b) prudce poklesne hladina progesteronu  
+c) odlučuje se krev z poškozené sliznice dělohy  
+d) probíhá 5. - 12. den cyklu  
+^c)
+198. Proces změny jednovrstevné blastuly na dvojvrstevný zárodek se nazývá:  
+a) nidace  
+b) morulace  
+c) blastulace  
+d) gastrulace  
+^c)
+199. Od počátku 3. měsíce prenatálního vývoje označujeme lidského jedince jako:  
+a) zárodek  
+b) embryo  
+c) fetus  
+d) novorozenec 
+^c)
+200. Mazové žlázy odpovědné za produkci kožního mazu chybějí:  
+a) na ochlupených částech těla  
+b) na dlani a plosce nohy  
+c) na temeni hlavy  
+d) na břichu  
+^a)
+201. Krauseova tělíska jsou receptory:  
+a) chladu  
+b) tepla  
+c) dotyku  
+d) tlaku  
+^b)
+202. Receptory dotyku jsou:  
+a) Krauseova tělíska  
+b) Ruffiniho tělíska  
+c) Vater-Paciniho tělíska  
+d) Meissnerova tělíska  
+^d)
+203. Akomodací oka rozumíme změny:  
+a) v průměru zřítelnice  
+b) v optické mocnosti (mohutnosti) čočky  
+c) v průchodu světla sklivcem  
+d) v průchodu světla komorovou vodou  
+^a)
+204. Prodloužená mícha u savců:  
+a) řídí činnost plic a cévní soustavy  
+b) je ústředím pro udržování rovnováhy a pohybu  
+c) řídí pohyb očí  
+d) řídí činnost adenohypofýzy  
+^b)
+205. K periferní nervové soustavě patří:  
+a) autonomní a motorické nervy  
+b) svalová vlákna kosterních svalů 
+c) prodloužená až bederní mícha  
+d) neurohormony  
+^a)
+206. Kratší výběžky neuronů vedoucí vzruch dostředivě jsou:  
+a) neurity  
+b) synapse  
+c) dendrity  
+d) axony  
+^c)
+207. K neurotransmiterům patří:  
+a) renin  
+b) noradrenalin  
+c) histamin  
+d) intermedin 
+^b)
+208. Hormony působící parakrinně:  
+a) se k cílovým buňkám dostávají krevní cestou  
+b) se k cílovým buňkám dostávají přes nervová vlákna  
+c) jsou látky působící na sousední buňky, ke kterým se dostávají tkáňovým mokem  
+d) jsou pouze hormony neurohypofýzy  
+^c)
+209. Parathormon se vytváří v:  
+a) kůře nadledvin  
+b) přední části hypofýzy  
+c) dřeni nadledvin  
+d) v příštitných tělíscích  
+^a)
+210. Progesteron:  
+a) ovlivňuje vznik druhotných pohlavních znaků 
+b) řídí menstruační cyklus  
+c) zamezuje uhnízdění oplozeného vajíčka v děloze  
+d) brání zrání dalších Graafových folikulů 
+^c)
+211. Mezi primární procesy fotosyntézy patří:  
+a) fotolýza vody  
+b) redukce CO2 na sacharidy  
+c) Calvinův cyklus  
+d) temnostní fáze fotosyntézy  
+^a)
+212. Při fotosyntéze se:  
+a) uvolňuje CO2 
+b) přijímá O2 
+c) uvolňuje O2 
+d) přijímá CO  
+^c)
+213. Většina rostlinné organické hmoty se tvoří z:  
+a) vody  
+b) oxidu uhličitého  
+c) atmosférického kyslíku  
+d) dusíku  
+^b)
+214. Největšího vývoje dosáhly cykasy v:  
+a) prvohorách  
+b) druhohorách  
+c) třetihorách  
+d) čtvrtohorách  
+^b)
+215. Lišejníky představují:  
+a) symbiózu mezi sinicemi a řasami  
+b) zvláštní skupinu mechorostů 
+c) symbiózu mezi řasami a zrněnkami  
+d) symbiózu mezi řasami a houbami 
+^a)
+216. Mykorrhiza je:  
+a) symbióza vláken mycelia hub s kořeny vyšších rostlin  
+b) symbióza zelených řas s houbami  
+c) plísňové onemocnění brambor  
+d) druh parazitismu  
+^a)
+217. Nedostatek dusíku u rostlin se projevuje:  
+a) tmavnutím okrajů listů 
+b) sníženou klíčivostí semen  
+c) snížením obsahu chlorofylu – listy blednou  
+d) tvorbou velkého počtu malých plodů 
+^c)
+218. Lignin u rostlin impregnuje  
+a) buněčné stěny mladých buněk  
+b) jaderné membrány vyšších rostlin  
+c) buněčné stěny starších buněk  
+d) pouze buňky v listech  
+^c)
+219. Výtrusnicový klas nese u přesličky rolní:  
+a) jarní nezelená lodyha  
+b) sterilní lodyha  
+c) zelená lodyha  
+d) letní lodyha  
+^a)
+220. Bobule je plodem:  
+a) jeřábu  
+b) jabloně 
+c) třešně 
+d) okurky  
+^c)
+221. Oddenky rostlin jsou přeměněné:  
+a) kořeny  
+b) listy  
+c) stvoly  
+d) stonky  
+^a)
+222. Kyselina abscisová patří mezi:  
+a) stimulátory růstu rostlin  
+b) inhibitory růstu rostlin  
+c) rostlinné aminokyseliny  
+d) rostlinná barviva  
+^b)
+223. Většina dnešních druhů nahosemenných rostlin je opylována:  
+a) větrem  
+b) hmyzem  
+c) vodou  
+d) ptáky  
+^a)
+224. Dub je významnou farmaceutickou surovinou, používá se:  
+a) nažka (žalud)  
+b) list  
+c) mladé větvičky  
+d) kůra
+^ 
+225. Nika:  
+a) je soubor všech abiotických a biotických podmínek vytvářející prostředí organismu  
+b) je soubor všech faktorů prostředí, který daný organismus využívá pro průběh svých  životních funkcí  
+c) je koncentrace určitého faktoru v prostředí  
+d) je výskyt druhu na určitém stanovišti  
+226. Ekosystémy s podobnými charakteristickými znaky se nazývají:  
+a) nika  
+b) biom  
+c) klimax  
+d) areál  
+^b)
+227. Ekosystémem není:  
+a) tropický deštný les  
+b) plankton  
+c) pole  
+d) městský sad  
+^b)
+228. V ekologii je biotop výraz pro:  
+a) stanoviště 
+b) živý organismus  
+c) vrchol potravní pyramidy  
+d) soubor všech organismů v určitém areálu  
+^a)
+229. Oblast, v níž se vyskytuje určitý druh, se nazývá:  
+a) areál  
+b) biotop  
+c) biom  
+d) biokoridor  
+^a)
+230. Studiem populací se zabývá:  
+a) demekologie  
+b) synekologie  
+c) autekologie  
+d) behaviorální ekologie  
+^a)
+231. U populace nemůžeme určit strukturu:  
+a) věkovou  
+b) hmotnostní  
+c) pohlavní  
+d) druhovou  
+^c)
+232. Soubor jedinců různých druhů živočichů žijících na určitém stanovišti nazýváme:  
+a) biocenóza  
+b) zoocenóza  
+c) fytocenóza  
+d) ekosystém 
+^b)
+233. Soubor jedinců různých druhů rostlin žijících na určitém stanovišti nazýváme:  
+a) biocenóza  
+b) zoocenóza  
+c) fytocenóza  
+d) biom  
+^c)
+234. Svislé rozvrstvení společenstva do jednotlivých pater se nazývá:  
+a) stratifikace  
+b) disperze  
+c) oscilace  
+d) ekoton  
+^a)
+235. Limitujícím faktorem pro život organismu ve vodě je:  
+a) hustota vody  
+b) obsah kyslíku ve vodě 
+c) obsah oxidu uhličitého ve vodě 
+d) povrchové napětí vody  
+^a)
+236. K abiotickým faktorům prostředí nepatří:  
+a) pH půdy  
+b) vlhkost  
+c) edafon  
+d) délka dne  
+^c)
+237. Cirkadiánní biologické rytmy vycházejí ze střídání:  
+a) ročních období  
+b) měsíců 
+c) dne a noci  
+d) zimních a letních měsíců 
+^c)
+238. Euryekní druhy:  
+a) mají úzkou ekologickou valenci  
+b) jsou citlivé na kolísání ekologického faktoru v prostředí  
+c) jsou špatně přizpůsobitelné měnícím se podmínkám prostředí  
+d) mají širokou ekologickou valenci  
+^c)
+239. Druhy, které špatně snášejí kolísání faktoru prostředí, se nazývají:  
+a) stenoekní  
+b) euryekní  
+c) euryvalentní  
+d) ambivalentní  
+^a)
+240. Moucha domácí je příkladem:  
+a) bioindikátoru  
+b) kosmopolitního organismu  
+c) stenoekního organismu  
+d) reliktního organismu  
+^b)
+241. Pro xerofilní druhy je optimální život v prostředí:  
+a) suchém  
+b) vlhkém  
+c) teplém  
+d) chladném 
+^a)
+242. Kryofilní organismy:  
+a) žijí trvale na sněhu a ledovcích  
+b) osidlují teplé prostředí  
+c) žijí v horkých pramenech  
+d) upřednostňují suché prostředí  
+^a)
+243. Vzájemně prospěšný vztah mezi dvěma populacemi je:  
+a) parazitismus  
+b) predátorství  
+c) mykorrhiza  
+d) kompetice  
+^c)
+244. Živou potravu nekonzumují:  
+a) koprofágové  
+b) ichtyofágové  
+c) fytofágové  
+d) zoofágové  
+^a)
+245. Saprofágové:  
+a) se živí rostlinami  
+b) se živí živočichy  
+c) získávají energii z organických látek odumřelých organismů 
+d) získávají energii s chemických vazeb anorganických látek  
+^c)
+246. Eutrofizace vod je způsobena vysokou koncentrací:  
+a) dusíku  
+b) kyslíku  
+c) železa  
+d) síry  
+^a)
+247. Nejstabilnějším ekosystémem je:  
+a) klimaxová smrčina  
+b) obilné pole  
+c) smrková monokultura  
+d) meruňkový sad  
+^a)
+248. Ekologická sukcese je:  
+a) horizontální struktura společenstva  
+b) vývoj společenstva od strukturně bohatého ke strukturně jednoduššímu  
+c) vývoj vzájemných mezidruhových vztahů 
+d) postupující změny ve složení společenstva organismů  
+^c)
+249. Zbytky některých druhů rostlin z doby poledové v Krkonoších jsou příkladem:  
+a) reliktů 
+b) rudimentů 
+c) atavismů 
+d) bioindikátorů 
+^a)
+250. Kamčatka leží v zoogeografické oblasti zvané:  
+a) tajga  
+b) tundra  
+c) palearktická  
+d) nearktická 
+^c)
+251. Mezinárodní úmluva regulující obchod s ohroženými druhy je známa pod  zkratkou:  
+a) WWF  
+b) IUCN  
+c) CITES  
+d) WHO  
+^c)
+252. Mikroevoluce představuje:  
+a) štěpení vývojových linií a vznik nových druhů 
+b) splývání vývojových linií  
+c) vznik nových druhů bez předchozí geografické izolace  
+d) evoluční změny v populacích téhož druhu  
+^a)
+253. Druhová rozmanitost organismů se odborně nazývá:  
+a) disparita  
+b) biodiverzita  
+c) konvergence  
+d) adaptivní radiace  
+^b)
+254. Speciace daná vznikem reprodukčně izolačních bariér, které izolují genofond  podskupiny populace se označuje jako speciace:  
+a) alopatrická  
+b) syngenetická  
+c) sympatrická  
+d) mikroevoluční  
+^a)
+255. Vznik nových druhů na základě rozdělení původního areálu výchozího druhu  zdvihem horského pásma se nazývá:  
+a) speciace sympatrická  
+b) speciace alopatrická  
+c) syngeneze  
+d) anageneze  
+^b)
+256. Evoluci nových forem (linií) ze společného předka procesem přizpůsobování se  volným ekologickým nikám nazýváme:  
+a) konvergence  
+b) adaptivní radiace  
+c) syngeneze  
+d) anageneze  
+^b)
+257. Hlavními faktory evoluce dle Darwinovy teorie jsou:  
+a) změny v ekosystémech a symbióza druhů 
+b) přírodní výběr a opakující se kataklyzmata  
+c) boj o život a přírodní výběr  
+d) faktory fyzikální a chemické  
+^c)
+258. Tvarová konvergence je:  
+a) přítomnost odlišných znaků, které mají stejný původ  
+b) přítomnost podobných morfologických znaků u nepříbuzných systematických  skupin  
+c) přítomnost podobných morfologických znaků u příbuzných systematických skupin  
+d) přítomnost odlišných znaků u nepříbuzných systematických skupin 
+^b)
+259. Podobnost delfínů a žraloků je příkladem:  
+a) adaptivní radiace  
+b) konvergence  
+c) divergentní evoluce  
+d) homologie  
+^b)
+260. Plazi, pokud do nich nezahrneme ptáky, nejsou přirozenou skupinou, neboť představují taxon:  
+a) monofyletický  
+b) parafyletický  
+c) polyfyletický  
+d) homofyletický  
+^c)
+261. Nepřítomnost trávicí soustavy u vrtejšů představuje:  
+a) apomorfii  
+b) pleziomorfii  
+c) atavismus  
+d) parsimonii  
+^a)
+262. První savci se objevili v:  
+a) prahorách  
+b) prvohorách  
+c) druhohorách  
+d) třetihorách  
+^c)
+263. Napište 4 základní makroelementy, které tvoří asi 95% živých soustav:  264. Napište alespoň 4 funkce vody v živých soustavách:  
+265. Jev, kdy pronikají polopropustnou membránou rozpouštědla a dochází ke zřeďování  části roztoku s větší koncentrací solí, se nazývá:  
+266. Vyjmenujte základní fáze buněčného cyklu:  
+267. Napište alespoň 5 nemocí člověka, které způsobují viry:  
+268. Jaké znáte purinové báze v nukleových kyselinách?  
+269. Mechanizmus dědičnosti kvalitativních znaků (vlastností) objasnil:  
+270. Napište číselný fenotypový štěpný poměr u dihybridismu s úplnou dominancí ve druhé  filiální generaci (pokud rodiče označíme následovně: AABB x aabb):  
+271. V populaci s dvěma alelami určitého lokusu, B a b, je alelová frekvence B 0,3. Jaká byla  frekvence heterozygotů, pokud by populace byla v Hardy-Weinbergově rovnováze?  
+272. Jaká je pravděpodobnost (v %), že se manželskému páru narodí 3 synové po sobě? 
+273. Noha hmyzu se skládá z následujících částí:  
+274. Larva, která si vyhrabává v suché písčité půdě nálevkovitou jamku a na jejím dně číhá  na kořist, je larvou: ............................., který patří do řádu ..........................
+275. Světélkování může sloužit také k vyhledávání opačného pohlaví, tak jak je tomu  u našich..............………....., patřících do řádu......………...............
+276. Tzv. červivost třešní je způsobena ...........................z řádu.......................
+277. Oplození vajíčka není u některých živočichů nutnou podmínkou vývoje zárodku.  Takový způsob rozmnožování se označuje jako:  
+278. Napište rodové i druhové jméno endoparazita z kmene ploštěnci, který cizopasí  v trávicím traktu člověka a mezihostitelem je prase, kde vytváří tzv. boubel:  
+279. Larva mihulí se nazývá:  
+280. Lososovité ryby mají mezi hřbetní a ocasní ploutví:  
+281. Schopnost rozmnožovat se pohlavně v larválním stadiu, která se vyskytuje u některých  ocasatých obojživelníků, se nazývá:  
+282. Předkem všech plemen kura domácího je:  
+283. Morče domácí pochází ze zoogeografické oblasti:  
+284. Slinivka břišní ústí u savců do:  
+285. Vazivový obal srdce se nazývá:  
+286. Dvojcípá neboli mitrální chlopeň se nachází:  
+287. Tepny vyživující srdeční svalovinu se nazývají:  
+288. Vyjmenuj všechny tři hlavní slinné žlázy člověka:  
+289. Syntéza močoviny probíhá v:  
+290. Jaké jsou čtyři základní chuťové pocity:  
+291. Vyjmenujte tři české národní parky:  
+292. Jaký je jednoslovný termín pro rostlinný plankton?  
+293. Autorem knihy „Původ člověka a pohlavní výběr“ je:  
+294. V raném pleistocénu, před 4,5-1 mil let, žil v Africe předchůdce člověka nazvaný:  295. Na kterém kontinentě se vyskytovali jedinci druhu Homo habilis?  
+296. Z kterého období jsou pozůstatky prvních savců?  
+297. Seřaďte hierarchicky: řád, druh, kmen, čeleď, doména, rod, říše, třída: 
